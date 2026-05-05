@@ -9,7 +9,10 @@ export const metadata: Metadata = {
   description: "Optimize your productivity by mapping your biological rhythm. Calculate the perfect bedtime based on 90-minute sleep cycles.",
   keywords: ["sleep planner", "circadian rhythm", "90 minute sleep rule", "productivity", "notegraph"],
   icons: {
-    icon: '/favicon.ico',
+    icon: [
+      { url: '/favicon.ico', sizes: 'any' },
+      { url: '/icon.svg', type: 'image/svg+xml' },
+    ],
     shortcut: '/favicon.ico',
   },
 };

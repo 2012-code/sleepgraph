@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Dark background -->
+  <rect width="32" height="32" rx="6" fill="#161616"/>
+  <!-- Crescent moon shape -->
+  <path d="M20 8 A10 10 0 1 0 20 24 A7 7 0 1 1 20 8Z" fill="#ffffff"/>
+  <!-- Purple accent dot -->
+  <circle cx="23" cy="10" r="2.5" fill="#7c3aed"/>
+</svg>
