@@ -1,2 +1,1 @@
-# AdSense Verification
-google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+google.com, pub-9086261363146330, DIRECT, f08c47fec0942fa0
