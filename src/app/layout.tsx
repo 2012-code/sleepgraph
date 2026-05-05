@@ -9,6 +9,9 @@ export const metadata: Metadata = {
   title: "NoteGraph | Sleep Cycle & Energy Planner",
   description: "Optimize your productivity by mapping your biological rhythm. Calculate the perfect bedtime based on 90-minute sleep cycles.",
   keywords: ["sleep planner", "circadian rhythm", "90 minute sleep rule", "productivity", "notegraph"],
+  other: {
+    "google-adsense-account": "ca-pub-9086261363146330",
+  },
   icons: {
     icon: [
       { url: '/favicon.ico', sizes: 'any' },
